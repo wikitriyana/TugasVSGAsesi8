@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MembuatStorange</string>
+    <string name="baca_file">Baca File</string>
+    <string name="buat_file">Buat File</string>
+    <string name="hapus_file">Hapus File</string>
+    <string name="memori_internal">Memori Internal</string>
+    <string name="memori_external">Memori External</string>
+    <string name="internal_storange">INTERNAL STORANGE</string>
+    <string name="latihan_persistence">Latihan Persistence</string>
+    <string name="external_storange">EXTERNAL STORANGE</string>
+    <string name="hasil_baca_file">Hasil Baca File</string>
+    <string name="ubah_file">Ubah File</string>
+</resources>
